@@ -6,6 +6,10 @@
   - [osTicket: Prerequisites and Installation](https://github.com/Dekqer/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/Dekqer/osTicketpostinstallation-setup)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Dekqer/ticket-lifestyle)
+  
+ - <b>VPN (Azure Virtual Machine)</b>
+   - [Setting up a VPN inside of a Azure Virual Machine](https://github.com/Dekqer/VPNConfig)
+   
 
 <h2>🤳Connect with me:</h2>
 
